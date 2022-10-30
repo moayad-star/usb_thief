@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-moayad--star-orange">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
+</p>
+
 # usb_thief
 
 The thief is waiting for the spoil
